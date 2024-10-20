@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 TEST
 
 import sys
 # caution: path[0] is reserved for script path (or '' in REPL)
